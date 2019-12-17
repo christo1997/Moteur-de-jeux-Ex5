@@ -1,0 +1,2 @@
+C:\Users\chris\OneDrive\Documents\Projets\Exercice 5\obj\Debug\InputSystem.Samples.Visualizers.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Projets\Exercice 5\obj\Debug\InputSystem.Samples.Visualizers.csproj.CoreCompileInputs.cache
